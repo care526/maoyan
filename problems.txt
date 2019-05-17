@@ -1,0 +1,21 @@
+sass的loder加载，scss是带括号的，sass是不带括号的
+浏览器默认样式和css的初始化
+vue的component的命名问题
+vue对于数组的改变，监测的几种修改方法push pop shift unshift splice sort reverse
+
+待处理的问题：
+加上页面间切换的动画
+promise的catch的处理
+create中不要写大量的业务逻辑
+写在muthods中
+
+
+滑动块的高度父元素如果不再设置，会随着子元素的高度而堆叠，所以要设置
+滑动块的宽度，子元素会继承父元素的宽度，所以要设置子元素的宽度宽于父元素
+
+
+
+
+待总结：
+浏览器页面的参数的获取和div的参数的获取
+以及怎么样动态的检测

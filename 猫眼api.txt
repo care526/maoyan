@@ -1,0 +1,11 @@
+热门电影 https://m.maoyan.com/ajax/movieOnInfoList?token=
+nm  名字
+version 'v3d imax' or ''    3DMAX
+wish  多少人想看（前提是未发售）
+star  主演
+showInfo  今天80家影院放映108场
+globalReleased true false or true  是否发售
+
+最受期待 https://m.maoyan.com/ajax/mostExpected?ci=57&limit=10&offset=0&token=
+limit是comming的电影数，offset是前面的多少个不要
+即将上映 https://m.maoyan.com/ajax/comingList?ci=57&token=&limit=10
